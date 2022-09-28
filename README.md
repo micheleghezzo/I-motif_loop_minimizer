@@ -1,4 +1,4 @@
-# i-Motif_loop_minimizer
+# i-Motif loop minimizer
 
 Dependency: python3 interpreter
 
